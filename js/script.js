@@ -21,6 +21,7 @@ class MenuNavegacion extends HTMLElement {
                     <li><a href="contacto.html">Contacto</a></li>
                     <li><a href="https://google.com" target="_blank">Google</a></li>
              </ul>
+             
         </nav>
         `;
     }//End connectedCallback   
