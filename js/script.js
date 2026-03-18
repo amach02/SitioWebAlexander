@@ -17,8 +17,8 @@ class MenuNavegacion extends HTMLElement {
         <nav class="navbar">
             <div class="logo">Ejemplo Sitio Web</div>
               <ul>
-                    <li><a href="Index.html">Inicio</a></li>
-                    <li><a href="Contacto.html">Contacto</a></li>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
                     <li><a href="https://google.com" target="_blank">Google</a></li>
              </ul>
         </nav>
